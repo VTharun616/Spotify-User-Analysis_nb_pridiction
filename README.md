@@ -52,6 +52,7 @@ Good accuracy
 
 ## 5. Model Saving
 nb_model.pkl
+
 vectorizer.pkl
 
 ## 6. Tech Stack
